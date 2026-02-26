@@ -1,34 +1,34 @@
 # Broll3
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 6vDkcoN7DTJJgxdoDZTZnW
 - **Spotify Link**: https://open.spotify.com/artist/6vDkcoN7DTJJgxdoDZTZnW
 - **Original Spotify-Link**: https://open.spotify.com/artist/6vDkcoN7DTJJgxdoDZTZnW?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 25 (erfasst: 26.02.2026 03:22)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 25 (captured: 26.02.2026 03:22)
+- **Followers**: Not available
 - **Genre**: Rap/Hip-Hop
-- **Popularität**: Niedrig (25 monatliche Hörer)
+- **Popularity**: Low (25 monthly listeners)
 
-## Biografie
+## Biography
 "Hey y'all thank u for listening to me and helping me get heard around the world"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:22
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:22
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - 925 (2021) - Single
@@ -42,7 +42,7 @@
 4. Ur Luv (Explicit)
 5. ED GEIN (feat. Layzzz, Astra Kane) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Joeyy
 - Lil Nando
 - Layzzz
@@ -54,35 +54,35 @@
 - Silas
 - Phenex
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Broll3" - numerischer Name mit "3"
-- **Themen**: Emotionale Themen ("goner", "Ur Luv"), existenzielle Themen ("Funeral"), kontroversielle Themen ("ED GEIN"), numerische Themen ("925")
-- **Sprachmuster**: Englisch mit emotionalen, dankbaren Texten
-- **Zahlenmystik**: "925", "Broll3" - Zahlen als zentrales Element
+## Patterns & Anomalies
+- **Name Conventions**: "Broll3" - numerical name with "3"
+- **Themes**: Emotional themes ("goner", "Ur Luv"), existential themes ("Funeral"), controversial themes ("ED GEIN"), numerical themes ("925")
+- **Language Patterns**: English with emotional, grateful lyrics
+- **Number Mysticism**: "925", "Broll3" - numbers as central element
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 25 monatliche Hörer bei 2,434 Plays (extrem verdächtig)
-- **Aktivitäts-Muster**: Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Hohe Play-Zahlen bei fast nicht existenten Hörern deutet stark auf Bot-Aktivität hin
-- **Künstliche Popularität**: Extrem verdächtiges Verhältnis zwischen Plays und Hörern
+## Manipulation Indicators
+- **Listener Count Anomalies**: 25 monthly listeners with 2,434 plays (extremely suspicious)
+- **Activity Patterns**: Singles with minimal reach
+- **Bot Indicators**: High play counts with almost non-existent listeners strongly indicates bot activity
+- **Artificial Popularity**: Extremely suspicious ratio between plays and listeners
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Rap/Hip-Hop mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Rap/Hip-Hop with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
-## Künstler-Philosophie
-- **Musikstil**: Rap/Hip-Hop mit emotionalen Themen
-- **Ansatz**: Dankbarkeit für weltweite Unterstützung
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen, Dankbarkeit
-- **Community**: Globale Verbindung durch Musik
+## Artist Philosophy
+- **Music Style**: Rap/Hip-Hop with emotional themes
+- **Approach**: Gratitude for worldwide support
+- **Themes**: Emotional processing, existential questions, gratitude
+- **Community**: Global connection through music
 
-## Kulturelle Besonderheiten
-- **Namensstil**: "Broll3" mit numerischem Element
-- **Bio-Stil**: Dankbare, globale Perspektive
-- **Zahlen-Fokus**: "925", "Broll3" - Zahlen als zentrales Thema
-- **Community-Ansatz**: Dankbarkeit und weltweite Verbindung
+## Cultural Characteristics
+- **Name Style**: "Broll3" with numerical element
+- **Bio Style**: Grateful, global perspective
+- **Number Focus**: "925", "Broll3" - numbers as central theme
+- **Community Approach**: Gratitude and worldwide connection
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

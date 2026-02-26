@@ -1,34 +1,34 @@
 # CHROME
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 0ppRJRcErdlWhDGA3ds2K7
 - **Spotify Link**: https://open.spotify.com/artist/0ppRJRcErdlWhDGA3ds2K7
 - **Original Spotify-Link**: https://open.spotify.com/artist/0ppRJRcErdlWhDGA3ds2K7?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 1,032 (erfasst: 26.02.2026 04:22)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Mittel (1.0K monatliche Hörer)
+- **Monthly Listeners**: 1,032 (captured: 26.02.2026 04:22)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Medium (1.0K monthly listeners)
 
-## Biografie
+## Biography
 "CHROME IST DER GOAT!"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:22
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:22
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - MINI ME (Latest Release) - Single
@@ -40,7 +40,7 @@
 2. RED RARI (feat. EydoEy) (Explicit) - 2,890 Plays
 3. L0VE (feat. EydoEy) - 2,818 Plays
 
-## Kollaborationen
+## Collaborations
 - EydoEy (L0VE, RED RARI)
 - cazyy (DND)
 - va1e (CHROME Radio)
@@ -50,29 +50,29 @@
 - Fryz! (Fans also like)
 - STOA (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "CHROME" - Material-Referenz, Luxus-Assoziation
-- **Themen**: Liebe (L0VE), Privatsphäre (DND), Luxus (RED RARI), Größe (MINI ME)
-- **Sprachmuster**: Deutsch mit englischen Elementen, Leetspeak (L0VE)
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "CHROME" - material reference, luxury association
+- **Themes**: Love (L0VE), privacy (DND), luxury (RED RARI), size (MINI ME)
+- **Language Patterns**: German with English elements, leetspeak (L0VE)
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 1,032 monatliche Hörer bei 6,579+ Plays (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 1,032 monthly listeners with 6,579+ plays (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborations-Dichte mit EydoEy
-- **Genre-Cluster**: Deutschrap/Trap mit luxuriösen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit SADINPRADA, Fryz!, STOA (Fans also like)
-- **Influence-Patterns**: Teil des Luxus-Trap Netzwerks
+## Network Analysis
+- **Collaboration Density**: High collaboration density with EydoEy
+- **Genre Cluster**: German Rap/Trap with luxury themes
+- **Connection Strength**: Strongly connected with SADINPRADA, Fryz!, STOA (Fans also like)
+- **Influence Patterns**: Part of luxury trap network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit luxuriösen Elementen
-- **Ansatz**: Selbstbewusst, luxuriös ("CHROME IST DER GOAT!")
-- **Themen**: Liebe, Privatsphäre, Luxus, Größe
-- **Community**: Starke Kollaborations-Präsenz mit EydoEy, cazyy
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with luxury elements
+- **Approach**: Confident, luxurious ("CHROME IST DER GOAT!")
+- **Themes**: Love, privacy, luxury, size
+- **Community**: Strong collaboration presence with EydoEy, cazyy
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)
