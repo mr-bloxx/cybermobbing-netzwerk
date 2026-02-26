@@ -1,30 +1,30 @@
 # 2dizzy
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 5y8OSi5vAxUY7NeqAGFcyw
 - **Spotify Link**: https://open.spotify.com/artist/5y8OSi5vAxUY7NeqAGFcyw
 - **Original Spotify-Link**: https://open.spotify.com/artist/5y8OSi5vAxUY7NeqAGFcyw?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 684 (erfasst: 26.02.2026 03:48)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Moderat (684 monatliche Hörer)
+- **Monthly Listeners**: 684 (captured: 26.02.2026 03:48)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Moderate (684 monthly listeners)
 
-## Biografie
+## Biography
 "Trapstar"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:48
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:48
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - CRIMSONIA (2025) - Album
 
 ### Singles
@@ -37,8 +37,8 @@
 3. supernova (feat. hella vince, Glowing Misfits) (Explicit) - 1,214 Plays
 4. Love At First Bite (feat. Glowing Misfits) (Explicit) - 1,187 Plays
 
-## Kollaborationen
-- Glowing Misfits (alle Top-Tracks)
+## Collaborations
+- Glowing Misfits (all top tracks)
 - hella vince (supernova)
 - Lytro (2dizzy Radio)
 - Blender (2dizzy Radio)
@@ -46,29 +46,29 @@
 - albedo (Fans also like)
 - SADINPRADA (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "2dizzy" - Zahlen-basierter Name mit "dizzy"
-- **Themen**: Wissenschaftliche Konzepte (supernova), atmosphärische Themen (icy), emotionale Themen (ihre augen rot), Gothic-Referenzen (Love At First Bite)
-- **Sprachmuster**: Deutsch mit Trap-Elementen und emotionalen Texten
-- **Zahlenmystik**: "2dizzy" - Zahlen als Namenskonzept
+## Patterns & Anomalies
+- **Name Conventions**: "2dizzy" - number-based name with "dizzy"
+- **Themes**: Scientific concepts (supernova), atmospheric themes (icy), emotional themes (ihre augen rot), gothic references (Love At First Bite)
+- **Language Patterns**: German with trap elements and emotional lyrics
+- **Number Mysticism**: "2dizzy" - numbers as name concept
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 684 monatliche Hörer bei 9,772+ Plays (realistisch für Trap-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 684 monthly listeners with 9,772+ plays (realistic for trap artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Sehr starke Verbindung zu Glowing Misfits (alle Tracks)
-- **Genre-Cluster**: Deutschrap/Trap mit atmosphärischen und emotionalen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit albedo, SADINPRADA (Fans also like)
-- **Influence-Patterns**: Teil des Hard Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Very strong connection to Glowing Misfits (all tracks)
+- **Genre Cluster**: German Rap/Trap with atmospheric and emotional themes
+- **Connection Strength**: Strongly connected with albedo, SADINPRADA (Fans also like)
+- **Influence Patterns**: Part of Hard Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit atmosphärischen Elementen
-- **Ansatz**: Trapstar-Image mit emotionalen Tiefe
-- **Themen**: Wissenschaft (supernova), Atmosphäre (icy), Emotionen (ihre augen rot), Gothic (Love At First Bite)
-- **Community**: Starke Kollaborations-Präsenz mit Glowing Misfits
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with atmospheric elements
+- **Approach**: Trapstar image with emotional depth
+- **Themes**: Science (supernova), atmosphere (icy), emotions (ihre augen rot), gothic (Love At First Bite)
+- **Community**: Strong collaboration presence with Glowing Misfits
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)
