@@ -36,25 +36,25 @@
 
 ### Popular Tracks (Top 5)
 1. valley (feat. JShiny, CXDEX) (Explicit)
-2. SINNE TAUB (feat. CXDEX, KlaaNuddn) (Explicit)
-3. irgendwas & heartbreak (feat. Marvlife, Manic, Luwoe Beats)
-4. wochen ohne schlaf (Explicit)
+2. SENSES DEAF (feat. CXDEX, KlaaNuddn) (Explicit)
+3. something & heartbreak (feat. Marvlife, Manic, Luwoe Beats)
+4. weeks without sleep (Explicit)
 5. bloom (feat. JShiny, EIAS) (Explicit)
 
 ## Collaborations
 - JShiny (valley, bloom)
-- CXDEX (valley, SINNE TAUB)
-- KlaaNuddn (SINNE TAUB)
-- Marvlife (irgendwas & heartbreak)
-- Manic (irgendwas & heartbreak)
-- Luwoe Beats (irgendwas & heartbreak)
+- CXDEX (valley, SENSES DEAF)
+- KlaaNuddn (SENSES DEAF)
+- Marvlife (something & heartbreak)
+- Manic (something & heartbreak)
+- Luwoe Beats (something & heartbreak)
 - EIAS (bloom)
 - vaay (Fans also like)
 - JShiny (Fans also like)
 
 ## Patterns & Anomalies
 - **Name Conventions**: "HXDEX" - technological, creative name
-- **Themes**: Geography (valley), perception (SINNE TAUB), emotions (irgendwas & heartbreak), time (wochen ohne schlaf), growth (bloom)
+- **Themes**: Geography (valley), perception (SENSES DEAF), emotions (something & heartbreak), time (weeks without sleep), growth (bloom)
 - **Language Patterns**: German with experimental, emotional themes
 - **Number Mysticism**: "1L" as quantity reference
 
@@ -72,7 +72,7 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Trap with experimental elements
-- **Approach**: Self-ironic ("Amo aller Amos")
+- **Approach**: Self-ironic ("Love of all Amos")
 - **Themes**: Geography, perception, emotions, time, growth
 - **Community**: Strong collaboration presence with JShiny, CXDEX
 

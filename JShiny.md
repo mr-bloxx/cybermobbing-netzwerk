@@ -73,7 +73,7 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Trap with metaphorical elements
-- **Approach**: Astronomical, shining ("shiny is das sternenbild")
+- **Approach**: Astronomical, shining ("shiny is the constellation")
 - **Themes**: Access, abbreviations, geography, problems, growth
 - **Community**: Strong collaboration presence with CXDEX, HXDEX
 

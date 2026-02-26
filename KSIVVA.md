@@ -31,18 +31,18 @@ No biography available
 - No EPs available
 
 ### Singles
-- грустный (2024) - Single
+- sad (2024) - Single
 - totbitch (2024) - Single
 
 ### Popular Tracks (Top 5)
 1. HEALING (feat. Laer Xirtam) (Explicit)
 2. DESTRUCTION (feat. Laer Xirtam) (Explicit)
-3. грустный (feat. Punk Christ) (Explicit)
+3. sad (feat. Punk Christ) (Explicit)
 4. Bktherula Anthem (feat. Punk Christ) (Explicit)
 
 ## Collaborations
 - Laer Xirtam (HEALING, DESTRUCTION)
-- Punk Christ (грустный, Bktherula Anthem)
+- Punk Christ (sad, Bktherula Anthem)
 - Dropped here (KSIVVA Radio)
 - Hello Hannes (KSIVVA Radio)
 - Mobezzy (KSIVVA Radio)
@@ -51,8 +51,8 @@ No biography available
 
 ## Patterns & Anomalies
 - **Name Conventions**: "KSIVVA" - unusual capitalization, cryptic name
-- **Themes**: Healing/Destruction (HEALING/DESTRUCTION), emotions (грустный = sad), pop culture references (Bktherula Anthem)
-- **Language Patterns**: German with Russian elements (грустный), experimental lyrics
+- **Themes**: Healing/Destruction (HEALING/DESTRUCTION), emotions (sad), pop culture references (Bktherula Anthem)
+- **Language Patterns**: German with Russian elements, experimental lyrics
 - **Number Mysticism**: No obvious number patterns
 
 ## Manipulation Indicators

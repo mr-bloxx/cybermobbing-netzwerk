@@ -31,18 +31,18 @@
 - Legendary (2020) - EP
 
 ### Singles
-- bittersüß (Latest Release) - Single
-- Feelings auf Eis (2025) - Single
+- bittersweet (Latest Release) - Single
+- Feelings on Ice (2025) - Single
 
 ### Popular Tracks (Top 5)
-1. Feelings auf Eis (feat. EliaZz) - 17,485 Plays
-2. Alles ändert sich (feat. Yungnorfas, Icy) (Explicit) - 13,465 Plays
-3. bittersüß (Explicit) - 1,489 Plays
+1. Feelings on Ice (feat. EliaZz) - 17,485 Plays
+2. Everything changes (feat. Yungnorfas, Icy) (Explicit) - 13,465 Plays
+3. bittersweet (Explicit) - 1,489 Plays
 
 ## Collaborations
-- EliaZz (Feelings auf Eis)
-- Yungnorfas (Alles ändert sich)
-- Icy (Alles ändert sich)
+- EliaZz (Feelings on Ice)
+- Yungnorfas (Everything changes)
+- Icy (Everything changes)
 - nyklqs (MaRa Radio)
 - damaG (MaRa Radio)
 - Yungnorfas (MaRa Radio)
@@ -52,7 +52,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "MaRa" - simple, creative name
-- **Themes**: Emotions (Feelings auf Eis, bittersüß), change (Alles ändert sich)
+- **Themes**: Emotions (Feelings on Ice, bittersweet), change (Everything changes)
 - **Language Patterns**: German with emotional, metaphorical themes
 - **Number Mysticism**: No obvious number patterns
 

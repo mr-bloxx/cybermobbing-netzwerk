@@ -33,13 +33,13 @@
 ### Singles
 - BLACK CAT (Latest Release) - Single
 - BAR (2025) - Single
-- Bilder (2025) - Single
+- Pictures (2025) - Single
 
 ### Popular Tracks (Top 5)
 1. ROCKSTAR - 4,695 Plays
-2. LEER (feat. danny2k) - 2,496 Plays
-3. Bilder (feat. danny2k) - 3,113 Plays
-4. KLEINER PRINZ (feat. danny2k) - 1,594 Plays
+2. EMPTY (feat. danny2k) - 2,496 Plays
+3. Pictures (feat. danny2k) - 3,113 Plays
+4. LITTLE PRINCE (feat. danny2k) - 1,594 Plays
 5. BLACK CAT
 
 ## Collaborations
@@ -53,7 +53,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Leo 3D" - technical, futuristic name
-- **Themes**: Animals (BLACK CAT), emptiness (LEER), rockstar lifestyle (ROCKSTAR), literature (KLEINER PRINZ), visual media (Bilder), social places (BAR)
+- **Themes**: Animals (BLACK CAT), emptiness (EMPTY), rockstar lifestyle (ROCKSTAR), literature (LITTLE PRINCE), visual media (Pictures), social places (BAR)
 - **Language Patterns**: German with English elements, visual themes
 - **Number Mysticism**: "3D" as technological reference
 
@@ -71,7 +71,7 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Trap with visual elements
-- **Approach**: Personal, humorous ("ich hab' felicia dabei")
+- **Approach**: Personal, humorous ("I have Felicia with me")
 - **Themes**: Animals, emptiness, rockstar lifestyle, literature, visual media
 - **Community**: danny2k partnership, nightfvry connection
 

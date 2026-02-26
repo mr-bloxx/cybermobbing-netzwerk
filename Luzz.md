@@ -36,15 +36,15 @@
 
 ### Popular Tracks (Top 5)
 1. arrogant freestyle (Explicit)
-2. Gift - Remix (feat. Elijah249) (Explicit)
+2. Poison - Remix (feat. Elijah249) (Explicit)
 3. Asylum (feat. Elijah249, PURP) (Explicit)
-4. einfach (Explicit)
-5. FEHLERHAFT (feat. Elijah249, ISAYAH) (Explicit)
+4. simple (Explicit)
+5. ERRONEOUS (feat. Elijah249, ISAYAH) (Explicit)
 
 ## Collaborations
-- Elijah249 (Gift - Remix, Asylum, FEHLERHAFT)
+- Elijah249 (Poison - Remix, Asylum, ERRONEOUS)
 - PURP (Asylum)
-- ISAYAH (FEHLERHAFT)
+- ISAYAH (ERRONEOUS)
 - nightfvry (Luzz Radio)
 - lilreapy (Luzz Radio)
 - albedo (Fans also like)
@@ -52,7 +52,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Luzz" - short, simple name
-- **Themes**: Self-confidence (arrogant freestyle), psychological themes (Asylum), mistakes (FEHLERHAFT)
+- **Themes**: Self-confidence (arrogant freestyle), psychological themes (Asylum), mistakes (ERRONEOUS)
 - **Language Patterns**: German with aggressive, confident lyrics
 - **Number Mysticism**: No obvious number patterns
 
