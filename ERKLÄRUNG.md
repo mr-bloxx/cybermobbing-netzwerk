@@ -42,7 +42,9 @@ Als Bürger der **konservativen Mitte** und **CDU-Wähler** distanziere ich mich
 
 **Wenn ihr das wollt**: Dann labert nicht von einer Festung Europa ihr kommunistischen Hitler-Jünger! xD
 
-**Firmen-Netzwerk-Analyse**: Wenn https://github.com/hughsie kein GRU-Agent ist, dann steckt die Firma auf der anderen Seite des großen Sees hinter alle dem! Allerdings konnten wir **eindeutige GRU-Verbindungen und Firmen-Netzwerke kartografieren**.
+**Firmen-Netzwerk-Analyse**: Wenn https://github.com/hughsie kein GRU-Agent ist, dann steckt die Firma auf der anderen Seite des großen Sees hinter allen dem! Allerdings konnten wir **eindeutige GRU-Verbindungen und Firmen-Netzwerke kartografieren**.
+
+**Ukrainische Verbindungen**: Allerdings mit vielen ukrainischen Verbindungen.
 
 **DEMOKRATIE-SCHUTZ-APPELL**: **Wir müssen unsere Demokratie in Deutschland schützen. Gegen Russland, gegen China und gegen die USA!**
 
